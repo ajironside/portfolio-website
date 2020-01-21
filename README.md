@@ -48,7 +48,7 @@ Notes:
 
 - [ ] Customize the template to you 
 	- [x] Update the title tag match your name
-	- [ ] Update the place holder content throughout the template to your information
+	- [x] Update the place holder content throughout the template to your information
 		* Some templates are much larger than others, you don't need to fill in every little div with information, just try to get the site representing you and your work 
 		* You can use sites like [https://www.pexels.com/](https://www.pexels.com/) for free images to fill in place holders
 		* Showcase projects you have worked on by providing some information and links to your git hub projects
